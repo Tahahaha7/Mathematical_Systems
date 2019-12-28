@@ -5,4 +5,4 @@ Continuous and Discrete Mathematical Systems
 - **Assignment VI:** Linear transformation
 
 
-![Github Mathematica](Mathematica)
+![Github Mathematica](Mathematica.png)
